@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-certification-project/static/css/main.eecb2b32.css",
+    "main.js": "/React-certification-project/static/js/main.6e8ff062.js",
+    "static/js/787.1c986be9.chunk.js": "/React-certification-project/static/js/787.1c986be9.chunk.js",
+    "index.html": "/React-certification-project/index.html",
+    "main.eecb2b32.css.map": "/React-certification-project/static/css/main.eecb2b32.css.map",
+    "main.6e8ff062.js.map": "/React-certification-project/static/js/main.6e8ff062.js.map",
+    "787.1c986be9.chunk.js.map": "/React-certification-project/static/js/787.1c986be9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eecb2b32.css",
+    "static/js/main.6e8ff062.js"
+  ]
+}
